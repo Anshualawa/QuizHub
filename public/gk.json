@@ -1,0 +1,182 @@
+[
+  {
+    "ID": 1,
+    "Question": "Which planet is known as the Red Planet?",
+    "A": "Jupiter",
+    "B": "Mars",
+    "C": "Saturn",
+    "D": "Venus",
+    "Ans": "B"
+  },
+  {
+    "ID": 2,
+    "Question": "Who wrote the play 'Hamlet'?",
+    "A": "William Shakespeare",
+    "B": "Charles Dickens",
+    "C": "Jane Austen",
+    "D": "Leo Tolstoy",
+    "Ans": "A"
+  },
+  {
+    "ID": 3,
+    "Question": "Which country is known as the Land of the Rising Sun?",
+    "A": "China",
+    "B": "Japan",
+    "C": "India",
+    "D": "South Korea",
+    "Ans": "B"
+  },
+  {
+    "ID": 4,
+    "Question": "What is the capital city of Australia?",
+    "A": "Sydney",
+    "B": "Canberra",
+    "C": "Melbourne",
+    "D": "Brisbane",
+    "Ans": "B"
+  },
+  {
+    "ID": 5,
+    "Question": "Who painted the Mona Lisa?",
+    "A": "Vincent van Gogh",
+    "B": "Leonardo da Vinci",
+    "C": "Pablo Picasso",
+    "D": "Michelangelo",
+    "Ans": "B"
+  },
+  {
+    "ID": 6,
+    "Question": "Which animal is known as the 'ship of the desert'?",
+    "A": "Elephant",
+    "B": "Camel",
+    "C": "Horse",
+    "D": "Lion",
+    "Ans": "B"
+  },
+  {
+    "ID": 7,
+    "Question": "Who invented the telephone?",
+    "A": "Thomas Edison",
+    "B": "Alexander Graham Bell",
+    "C": "Albert Einstein",
+    "D": "Isaac Newton",
+    "Ans": "B"
+  },
+  {
+    "ID": 8,
+    "Question": "Which ocean is the largest?",
+    "A": "Atlantic Ocean",
+    "B": "Indian Ocean",
+    "C": "Arctic Ocean",
+    "D": "Pacific Ocean",
+    "Ans": "D"
+  },
+  {
+    "ID": 9,
+    "Question": "Who wrote the novel '1984'?",
+    "A": "George Orwell",
+    "B": "J.K. Rowling",
+    "C": "Mark Twain",
+    "D": "Charles Dickens",
+    "Ans": "A"
+  },
+  {
+    "ID": 10,
+    "Question": "Which is the longest river in the world?",
+    "A": "Amazon River",
+    "B": "Nile River",
+    "C": "Yangtze River",
+    "D": "Mississippi River",
+    "Ans": "B"
+  },
+  {
+    "ID": 11,
+    "Question": "Who was the first President of the United States?",
+    "A": "Thomas Jefferson",
+    "B": "George Washington",
+    "C": "Abraham Lincoln",
+    "D": "John Adams",
+    "Ans": "B"
+  },
+  {
+    "ID": 12,
+    "Question": "What is the chemical symbol for water?",
+    "A": "H2O",
+    "B": "CO2",
+    "C": "O2",
+    "D": "NaCl",
+    "Ans": "A"
+  },
+  {
+    "ID": 13,
+    "Question": "Who painted the ceiling of the Sistine Chapel?",
+    "A": "Vincent van Gogh",
+    "B": "Leonardo da Vinci",
+    "C": "Raphael",
+    "D": "Michelangelo",
+    "Ans": "D"
+  },
+  {
+    "ID": 14,
+    "Question": "Which country hosted the first modern Olympic Games?",
+    "A": "United Kingdom",
+    "B": "France",
+    "C": "Greece",
+    "D": "United States",
+    "Ans": "C"
+  },
+  {
+    "ID": 15,
+    "Question": "Who wrote 'The Adventures of Sherlock Holmes'?",
+    "A": "Agatha Christie",
+    "B": "Arthur Conan Doyle",
+    "C": "Roald Dahl",
+    "D": "J.K. Rowling",
+    "Ans": "B"
+  },
+  {
+    "ID": 16,
+    "Question": "Which is the largest organ in the human body?",
+    "A": "Brain",
+    "B": "Heart",
+    "C": "Liver",
+    "D": "Skin",
+    "Ans": "D"
+  },
+  {
+    "ID": 17,
+    "Question": "Who discovered penicillin?",
+    "A": "Marie Curie",
+    "B": "Alexander Fleming",
+    "C": "Louis Pasteur",
+    "D": "Thomas Edison",
+    "Ans": "B"
+  },
+  {
+    "ID": 18,
+    "Question": "Which country is known as the Land of the Midnight Sun?",
+    "A": "Norway",
+    "B": "Russia",
+    "C": "Canada",
+    "D": "Sweden",
+    "Ans": "A"
+  },
+  {
+    "ID": 19,
+    "Question": "Who developed the theory of relativity?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Galileo Galilei",
+    "D": "Stephen Hawking",
+    "Ans": "B"
+  },
+  {
+    "ID": 20,
+    "Question": "What is the smallest planet in our solar system?",
+    "A": "Mercury",
+    "B": "Mars",
+    "C": "Pluto",
+    "D": "Venus",
+    "Ans": "A"
+  }
+]

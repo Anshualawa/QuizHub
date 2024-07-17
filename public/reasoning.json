@@ -1,0 +1,182 @@
+[
+  {
+    "ID": 1,
+    "Question": "Which number is missing in the sequence: 2, 5, 10, 17, __?",
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27",
+    "Ans": "D"
+  },
+  {
+    "ID": 2,
+    "Question": "If all Bloops are Razzies and all Razzies are Lazzies, then all Bloops are definitely Lazzies. This statement is:",
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "Neither true nor false",
+    "Ans": "A"
+  },
+  {
+    "ID": 3,
+    "Question": "If TODAY is Monday, what day will be 90 days later?",
+    "A": "Tuesday",
+    "B": "Wednesday",
+    "C": "Thursday",
+    "D": "Friday",
+    "Ans": "D"
+  },
+  {
+    "ID": 4,
+    "Question": "Which of the following figures can be folded to form a cube?",
+    "A": "Figure A",
+    "B": "Figure B",
+    "C": "Figure C",
+    "D": "Figure D",
+    "Ans": "C"
+  },
+  {
+    "ID": 5,
+    "Question": "If FISH is coded as 28, then how will CAT be coded?",
+    "A": "24",
+    "B": "25",
+    "C": "26",
+    "D": "27",
+    "Ans": "B"
+  },
+  {
+    "ID": 6,
+    "Question": "If a clock strikes once at 1 o'clock, twice at 2 o'clock, thrice at 3 o'clock, and so on, how many times will it strike in 24 hours?",
+    "A": "72",
+    "B": "78",
+    "C": "84",
+    "D": "96",
+    "Ans": "D"
+  },
+  {
+    "ID": 7,
+    "Question": "Arrange the words in correct order to form a meaningful sentence: books/the/reading/library/loves/boy/the/in",
+    "A": "The boy loves reading books in the library.",
+    "B": "The boy loves books reading in the library.",
+    "C": "The boy reading loves books in the library.",
+    "D": "The boy loves reading in the library books.",
+    "Ans": "A"
+  },
+  {
+    "ID": 8,
+    "Question": "If RED is coded as 27, then how will GREEN be coded?",
+    "A": "49",
+    "B": "56",
+    "C": "61",
+    "D": "64",
+    "Ans": "B"
+  },
+  {
+    "ID": 9,
+    "Question": "Which number logically follows this series? 1, 4, 9, 16, __?",
+    "A": "24",
+    "B": "25",
+    "C": "36",
+    "D": "49",
+    "Ans": "D"
+  },
+  {
+    "ID": 10,
+    "Question": "If today is 15th July, what will be the day after 115 days?",
+    "A": "Monday",
+    "B": "Tuesday",
+    "C": "Wednesday",
+    "D": "Thursday",
+    "Ans": "C"
+  },
+  {
+    "ID": 11,
+    "Question": "Which word does not belong with the others?",
+    "A": "Circle",
+    "B": "Square",
+    "C": "Triangle",
+    "D": "Sphere",
+    "Ans": "D"
+  },
+  {
+    "ID": 12,
+    "Question": "If PRIDE is coded as 64, then how will SHINE be coded?",
+    "A": "56",
+    "B": "58",
+    "C": "62",
+    "D": "66",
+    "Ans": "C"
+  },
+  {
+    "ID": 13,
+    "Question": "Which number logically follows this series? 2, 5, 10, 17, 26, __?",
+    "A": "37",
+    "B": "38",
+    "C": "39",
+    "D": "40",
+    "Ans": "A"
+  },
+  {
+    "ID": 14,
+    "Question": "If all bags are cups and all cups are plates, then all bags are plates. This statement is:",
+    "A": "True",
+    "B": "False",
+    "C": "Uncertain",
+    "D": "Neither true nor false",
+    "Ans": "A"
+  },
+  {
+    "ID": 15,
+    "Question": "Complete the series: 1, 4, 9, 16, __, 36",
+    "A": "25",
+    "B": "27",
+    "C": "30",
+    "D": "32",
+    "Ans": "A"
+  },
+  {
+    "ID": 16,
+    "Question": "If MANGO is coded as 41, then how will PINEAPPLE be coded?",
+    "A": "91",
+    "B": "101",
+    "C": "111",
+    "D": "121",
+    "Ans": "B"
+  },
+  {
+    "ID": 17,
+    "Question": "Which of the following figures can be folded to form a cube?",
+    "A": "Figure A",
+    "B": "Figure B",
+    "C": "Figure C",
+    "D": "Figure D",
+    "Ans": "C"
+  },
+  {
+    "ID": 18,
+    "Question": "If TRAIN is coded as 84, then how will BUS be coded?",
+    "A": "46",
+    "B": "52",
+    "C": "58",
+    "D": "64",
+    "Ans": "B"
+  },
+  {
+    "ID": 19,
+    "Question": "Which number logically follows this series? 3, 6, 9, 12, 15, __?",
+    "A": "18",
+    "B": "19",
+    "C": "20",
+    "D": "21",
+    "Ans": "A"
+  },
+  {
+    "ID": 20,
+    "Question": "What is the next number in the sequence: 1, 4, 9, 16, 25, __?",
+    "A": "36",
+    "B": "42",
+    "C": "49",
+    "D": "64",
+    "Ans": "C"
+  }
+]
