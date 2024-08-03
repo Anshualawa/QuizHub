@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
-  "homepage": "https://Anshualawa.github.io/QuizHub",
+  "homepage": "https://anshualawa.github.io/QuizHub",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
