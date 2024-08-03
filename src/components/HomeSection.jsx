@@ -102,12 +102,6 @@ const HomeSection = () => {
           role="Educator"
           imageUrl="https://media.licdn.com/dms/image/D5603AQGFk70jB_z39g/profile-displayphoto-shrink_800_800/0/1705659578462?e=1726704000&v=beta&t=Jpdk4oeOLMMMF1Us_4amBZBnS6Mw5iAL8HOKs13vj4Q"
         />
-        <TestimonialCard
-          quote="QuizMastery has transformed the way I approach learning. It’s user-friendly and offers a wide range of topics that cater to different interests and abilities."
-          name="Priya Dehariya"
-          role="Cyber analyst"
-          imageUrl="https://media.licdn.com/dms/image/D5603AQGzwgfg2cs51g/profile-displayphoto-shrink_800_800/0/1669218263213?e=1726704000&v=beta&t=361uWJpVX0rgxNGYwhmbdDiQkuS7QufVYXC-OX3qDYk"
-        />
       </div>
     </div>
   );
